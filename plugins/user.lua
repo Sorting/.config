@@ -11,13 +11,8 @@ return {
   -- },
 
   {
-    "github/copilot.vim",
-    as = "GitHub Copilot",
-    event = "UIEnter",
-  },
-  {
     "tpope/vim-surround",
     as = "VIM Surround",
     event = "UIEnter",
-  }
+  },
 }
